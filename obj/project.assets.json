@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alan/PROGRAMAÇÃO/Cursos/Full Stack Divina Providência/CSharp/trabalhos/trabalho-pratico-1/trabalho-pratico-1.csproj",
+      "projectUniqueName": "/home/alan/PROGRAMAÇÃO/GitHub/portfolios/Guess-Game-C-/trabalho-pratico-1.csproj",
       "projectName": "trabalho-pratico-1",
-      "projectPath": "/home/alan/PROGRAMAÇÃO/Cursos/Full Stack Divina Providência/CSharp/trabalhos/trabalho-pratico-1/trabalho-pratico-1.csproj",
+      "projectPath": "/home/alan/PROGRAMAÇÃO/GitHub/portfolios/Guess-Game-C-/trabalho-pratico-1.csproj",
       "packagesPath": "/home/alan/.nuget/packages/",
-      "outputPath": "/home/alan/PROGRAMAÇÃO/Cursos/Full Stack Divina Providência/CSharp/trabalhos/trabalho-pratico-1/obj/",
+      "outputPath": "/home/alan/PROGRAMAÇÃO/GitHub/portfolios/Guess-Game-C-/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/alan/.nuget/NuGet/NuGet.Config"

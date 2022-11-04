@@ -7,7 +7,7 @@
         Console.ForegroundColor = ConsoleColor.White;
 
         char JogarDeNovo = 'S';
-        int QuantidadeDeVidas = 0, Valor = 0, Sorteado = 0;
+        int Valor = 0, Sorteado = 0;
         var Aleatorio = new Random();
 
         while (JogarDeNovo == 'S')
