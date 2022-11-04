@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "trabalho-pratico-1/1.0.0": {
+        "runtime": {
+          "trabalho-pratico-1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trabalho-pratico-1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
