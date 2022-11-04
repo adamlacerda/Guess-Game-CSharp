@@ -70,6 +70,7 @@
                             Console.WriteLine($"O valor correto era: {Sorteado}");
                             Console.WriteLine("PERDEU! 💀");
                             Console.WriteLine("HEAHEAHEA");
+                            Console.ForegroundColor = ConsoleColor.White;
                         }
                     }
                 } // MÉDIO
@@ -119,6 +120,7 @@
                             Console.WriteLine($"O valor correto era: {Sorteado}");
                             Console.WriteLine("PERDEU! 💀");
                             Console.WriteLine("HEAHEAHEA");
+                            Console.ForegroundColor = ConsoleColor.White;
                         }
                     }
                 }   // DIFÍCIL
@@ -169,6 +171,7 @@
                             Console.WriteLine($"O valor correto era: {Sorteado}");
                             Console.WriteLine("PERDEU! �");
                             Console.WriteLine("HEAHEAHEA");
+                            Console.ForegroundColor = ConsoleColor.White;
                         }
                     }
                 }
