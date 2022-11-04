@@ -22,5 +22,6 @@ int Sorteado = Aleatorio.Next(1, 10 + 1);
 
 Para ficar atrativo, foram adicionados emojis! 😉
 
-![image](https://user-images.githubusercontent.com/107153882/199973788-38a7fdf8-b198-4742-80ad-2b9cb84b08b3.png)
+![image](https://user-images.githubusercontent.com/107153882/199974400-168a32d9-f07d-408c-aadd-d600ce8d5008.png)
+
 
